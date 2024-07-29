@@ -1,0 +1,402 @@
+{
+    "400489111": {
+        "recap": "The Nuggets hung on for a 97-95 victory over their former star player and his struggling New York Knicks on Friday night. Ty Lawson scored 22 points for the Nuggets, who sent the Knicks to their eighth consecutive loss. Randy Foye added 17 points and provided the defense on Anthony's last shot, timing his jump so that the All-Star forward had to shoot over his outstretched hand.",
+        "masked_recap": "The Nuggets hung on for a ___-___ victory over their former star player and his struggling New York Knicks on Friday night. Ty Lawson scored ___ points for the Nuggets, who sent the Knicks to their eighth consecutive loss. Randy Foye added ___ points and provided the defense on Anthony's last shot, timing his jump so that the All-Star forward had to shoot over his outstretched hand."
+    },
+    "400900227": {
+        "recap": "Conley scored 32 points, including 11 in the last four minutes, and Marc Gasol had 19 points, nine rebounds and eight assists as the Memphis Grizzlies beat the hapless Brooklyn 112-103 on Monday night.",
+        "masked_recap": "Conley scored ___ points, including ___ in the last four minutes, and Marc Gasol had ___ points, ___ rebounds and ___ assists as the Memphis Grizzlies beat the hapless Brooklyn ___-___ on Monday night."
+    },
+    "401468026": {
+        "recap": "With All-Star guard LaMelo Ball out with a sprained left ankle, Terry Rozier stepped up with 24 points and six others scored in double figures as the Charlotte Hornets routed the San Antonio Spurs 129-102 on Wednesday night.",
+        "masked_recap": "With All-Star guard LaMelo Ball out with a sprained left ankle, Terry Rozier stepped up with ___ points and six others scored in double figures as the Charlotte Hornets routed the San Antonio Spurs ___-___ on Wednesday night."
+    },
+    "400489856": {
+        "recap": "Millsap had 24 points and 11 rebounds, Jeff Teague added 15 points and 10 assists, and the Atlanta Hawks rallied for their third straight win with a 97-92 victory over the Denver Nuggets on Saturday night.",
+        "masked_recap": "Millsap had ___ points and ___ rebounds, Jeff Teague added ___ points and ___ assists, and the Atlanta Hawks rallied for their third straight win with a ___-___ victory over the Denver Nuggets on Saturday night."
+    },
+    "400827984": {
+        "recap": "Kevin Durant had 32 points and 11 rebounds and Oklahoma City beat the Phoenix Suns 124-103 to snap a three-game losing streak.",
+        "masked_recap": "Kevin Durant had ___ points and ___ rebounds and Oklahoma City beat the Phoenix Suns ___-___ to snap a three-game losing streak."
+    },
+    "401161286": {
+        "recap": "Kendrick Nunn scored 25 points, James Johnson added 22 on 9-for-11 shooting and the Heat improved their NBA-best home record to 19-1 by beating the Sacramento Kings 118-113 in overtime on Monday.",
+        "masked_recap": "Kendrick Nunn scored ___ points, James Johnson added ___ on ___-for-___ shooting and the Heat improved their NBA-best home record to 19-1 by beating the Sacramento Kings ___-___ in overtime on Monday."
+    },
+    "401071544": {
+        "recap": "Durant had ___ points, nine rebounds and tied his career-high with seven blocks, and the Warriors survived a hectic finish to beat the Kings ___-___ on Thursday night.",
+        "masked_recap": ""
+    },
+    "400579452": {
+        "recap": "Taking control midway through the second quarter, the Raptors led by as many as ___ points and rolled to a ___-___ victory that likely quashed the Hornets' slim playoff hopes.",
+        "masked_recap": ""
+    },
+    "401468441": {
+        "recap": " O.G. Anunoby scored 12 of his 26 points in the fourth quarter, Fred VanVleet also had 26, and the Toronto Raptors beat Dallas 105-100 Saturday, snapping a four-game losing streak against the Mavericks",
+        "masked_recap": " O.G. Anunoby scored ___ of his ___ points in the fourth quarter, Fred VanVleet also had ___, and the Toronto Raptors beat Dallas ___-___ Saturday, snapping a four-game losing streak against the Mavericks"
+    },
+    "400489548": {
+        "masked_recap": "Durant remained sizzling with ___ points, Serge Ibaka added ___ and the Thunder roared back from an abysmal start -- they trailed ___-___ early -- to embarrass the Miami Heat ___-___ on Wednesday night, erasing that big deficit out of the gate by outscoring the two-time defending champions by ___ points over a 33-minute span.",
+        "recap": "Durant remained sizzling with 33 points, Serge Ibaka added 22 and the Thunder roared back from an abysmal start -- they trailed 22-4 early -- to embarrass the Miami Heat 112-95 on Wednesday night, erasing that big deficit out of the gate by outscoring the two-time defending champions by 43 points over a 33-minute span."
+    },
+    "400899872": {
+        "recap": "Andrew Wiggins scored 19 points, Towns had 17 points and 18 rebounds and Minnesota beat the Atlanta Hawks 92-84 on Wednesday night.",
+        "masked_recap": "Andrew Wiggins scored 19 points, Towns had ___ points and ___ rebounds and Minnesota beat the Atlanta Hawks ___-___ on Wednesday night."
+    },
+    "401468201": {
+        "recap": "Julius Randle had ___ points and ___ rebounds, Brunson scored ___ points and the Knicks kept Banchero and the Magic winless with a ___-___ victory Monday night.",
+        "masked_recap": ""
+    },
+    "400899380": {
+        "recap": "\"It's a reminder of how quickly things can turn in this league,\" Stevens said after his starters preserved a 122-117 victory in the season opener on Wednesday night. \"I probably will be less likely to leave them in that long if we're in a similar scenario. Hopefully we learn from it, and we're not.\"Isaiah Thomas had 25 points and nine assists, Jae Crowder added 21 points and Al Horford pitched in 11 in his Boston debut for the Celtics.",
+        "masked_recap": "\"It's a reminder of how quickly things can turn in this league,\" Stevens said after his starters preserved a ___-___ victory in the season opener on Wednesday night. \"I probably will be less likely to leave them in that long if we're in a similar scenario. Hopefully we learn from it, and we're not.\"Isaiah Thomas had ___ points and ___ assists, Jae Crowder added ___ points and Al Horford pitched in ___ in his Boston debut for the Celtics."
+    },
+    "401267697": {
+        "recap": "Kemba Walker had 25 points and six assists, and the Celtics took advantage of a late scratch of All-Star Kawhi Leonard and held off the Los Angeles Clippers 117-112 on Tuesday night.",
+        "masked_recap": "Kemba Walker had ___ points and six assists, and the Celtics took advantage of a late scratch of All-Star Kawhi Leonard and held off the Los Angeles Clippers ___-___ on Tuesday night."
+    },
+    "401307550": {
+        "recap": "Clint Capela had 24 points and 18 rebounds, Danilo Gallinari scored 25 points and the Atlanta Hawks beat the Golden State Warriors 117-111 Sunday night for their third straight win.",
+        "masked_recap": "Clint Capela had ___ points and ___ rebounds, Danilo Gallinari scored ___ points and the Atlanta Hawks beat the Golden State Warriors ___-___ Sunday night for their third straight win."
+    },
+    "401071505": {
+        "recap": "George scored 45 points, Russell Westbrook matched the NBA record with his ninth straight triple-double and Oklahoma City overcame a 26-point deficit to beat the Houston Rockets 117-112 on Saturday night.",
+        "masked_recap": "George scored ___ points, Russell Westbrook matched the NBA record with his ninth straight triple-double and Oklahoma City overcame a ___-point deficit to beat the Houston Rockets ___-___ on Saturday night."
+    },
+    "320117005": {
+        "recap": "David Lee scored a season-high 29 points -- 13 in the fourth quarter -- and Nate Robinson added 17 points, leading the Warriors to a 105-95 win Tuesday night over the road-worn Cleveland Cavaliers.",
+        "masked_recap": "David Lee scored a season-high ___ points -- ___ in the fourth quarter -- and Nate Robinson added ___ points, leading the Warriors to a ___-___ win Tuesday night over the road-worn Cleveland Cavaliers."
+    },
+    "401267409": {
+        "recap": "OG Anunoby delivered with jab after jab Sunday. He scored a season-high 30 points, grabbed eight rebounds, defended well and made three of four free throws in the final minute to give the surging Raptors a 107-102 victory over the Indiana Pacers.",
+        "masked_recap": "OG Anunoby delivered with jab after jab Sunday. He scored a season-high ___ points, grabbed ___ rebounds, defended well and made ___ of ___ free throws in the final minute to give the surging Raptors a ___-___ victory over the Indiana Pacers."
+    },
+    "401071899": {
+        "recap": "Westbrook had 15 points, 17 assists and 11 rebounds.Point guard Tim Frazier scored a career-high 29 points and added 13 assists for Milwaukee and D.J. Wilson had a career-high 18 points while grabbing 17 rebounds. Rookie Bonzie Colson started and scored 21 points.",
+        "masked_recap": "Westbrook had ___ points, ___ assists and ___ rebounds.Point guard Tim Frazier scored a career-high ___ points and added ___ assists for Milwaukee and D.J. Wilson had a career-high ___ points while grabbing ___ rebounds. Rookie Bonzie Colson started and scored ___ points."
+    },
+    "401591879": {
+        "recap": "Z. Collins had 15 points, 5 assists and 5 rebounds.Point guard TRE JONES scored a career-high 12 points and added 6 assists for San Antonio Spurs.",
+        "masked_recap": "Z. Collins had ___ points, ___ assists and ___ rebounds.Point guard TRE JONES scored a career-high ___ points and added ___ assists for San Antonio Spurs."
+    },
+    "320411022": {
+        "recap": "Crawford scored a season-high 34 points, Wesley Matthews had two baskets in the final minute and the Blazers beat the Golden State Warriors 118-110 on Wednesday night.",
+        "masked_recap": "Crawford scored a season-high ___ points, Wesley Matthews had two baskets in the final minute and the Blazers beat the Golden State Warriors ___-___ on Wednesday night."
+    },
+    "401070874": {
+        "recap": "Barnes scored a season-high 23 points and the Mavericks overcame a sluggish performance by their prized rookie to beat the Bulls 103-98 Monday night.",
+        "masked_recap": "Barnes scored a season-high ___ points and the Mavericks overcame a sluggish performance by their prized rookie to beat the Bulls ___-___ Monday night."
+    },
+    "400579069": {
+        "recap": "Chris Bosh scored 32 points, Mario Chalmers added 18 to lead a big effort from Miami's trio of point guards and the Heat rolled after halftime to win 109-95 on Monday night -- a double-blow for the Knicks, who lost yet another game and lost Carmelo Anthony in the fourth quarter with a recurrence of knee soreness.",
+        "masked_recap": "Chris Bosh scored ___ points, Mario Chalmers added 18 to lead a big effort from Miami's trio of point guards and the Heat rolled after halftime to win ___-___ on Monday night -- a double-blow for the Knicks, who lost yet another game and lost Carmelo Anthony in the fourth quarter with a recurrence of knee soreness."
+    },
+    "400900327": {
+        "recap": "Nowitzki had 18 points and 12 rebounds and Seth Curry scored 22 as Dallas beat the Oklahoma City Thunder 104-89 on Sunday night. Nowitzki tied his season high for rebounds and is 20 points away from becoming the sixth player to score 30,000. He'll likely set the mark at home, where Dallas plays its next three games.",
+        "masked_recap": "Nowitzki had ___ points and ___ rebounds and Seth Curry scored ___ as Dallas beat the Oklahoma City Thunder ___-___ on Sunday night. Nowitzki tied his season high for rebounds and is 20 points away from becoming the sixth player to score 30,000. He'll likely set the mark at home, where Dallas plays its next three games."
+    },
+    "400900451": {
+        "recap": "Leonard scored 20 of his 22 points in the second half and hit a go-ahead jumper with 54 seconds to play to help the Spurs to a 100-93 victory Tuesday night.",
+        "masked_recap": "Leonard scored ___ of his ___ points in the second half and hit a go-ahead jumper with 54 seconds to play to help the Spurs to a ___-___ victory Tuesday night."
+    },
+    "401307886": {
+        "recap": "James insisted after his game-high 25 points led the Los Angeles Lakers to a 110-98 victory over the New Orleans Pelicans on Sunday night.",
+        "masked_recap": "James insisted after his game-high ___ points led the Los Angeles Lakers to a ___-___ victory over the New Orleans Pelicans on Sunday night."
+    },
+    "400900124": {
+        "recap": "Lillard scored 33 points, including 13 straight late in the fourth quarter, and the Trail Blazers held off the Grizzlies 112-109 on Friday night.",
+        "masked_recap": "Lillard scored ___ points, including ___ straight late in the fourth quarter, and the Trail Blazers held off the Grizzlies ___-___ on Friday night."
+    },
+    "401307859": {
+        "recap": "Clint Capela added 14 points and 14 rebounds for the Hawks a day after they clinched their first playoff berth since 2016-17.",
+        "masked_recap": "Clint Capela added ___ points and ___ rebounds for the Hawks a day after they clinched their first playoff berth since 2016-17. "
+    },
+    "400278053": {
+        "recap": "Durant scored 31 points, Serge Ibaka added 18 points and 11 rebounds, and the Thunder's starters had to make a late appearance to hold off the Kings for a 113-103 victory Friday night.",
+        "masked_recap": "Durant scored ___ points, Serge Ibaka added ___ points and ___ rebounds, and the Thunder's starters had to make a late appearance to hold off the Kings for a ___-___ victory Friday night."
+    },
+    "401160897": {
+        "recap": "Evan Fournier scored a season-high 30 points and the Magic won away from home for first time this season, beating the Cleveland Cavaliers 116-104 on Wednesday night.",
+        "masked_recap": "Evan Fournier scored a season-high ___ points and the Magic won away from home for first time this season, beating the Cleveland Cavaliers ___-___ on Wednesday night."
+    },
+    "400583902": {
+        "recap": "BOSTON -- Evan Turner and Brandon Bass scored 15 points apiece, and the Boston Celtics outscored the Philadelphia 76ers 21-5 over the first 7 1/2 minutes of the fourth quarter in a 98-78 victory Monday night in the preseason opener for both teams.",
+        "masked_recap": "BOSTON -- Evan Turner and Brandon Bass scored ___ points apiece, and the Boston Celtics outscored the Philadelphia 76ers 21-5 over the first 7 1/2 minutes of the fourth quarter in a ___-___ victory Monday night in the preseason opener for both teams."
+    },
+    "401468841": {
+        "recap": "Luka Doncic had 34 points and 12 rebounds, and the Dallas Mavericks turned up the defensive intensity in a 115-90 victory over the Miami Heat on Friday night.",
+        "masked_recap": "Luka Doncic had ___ points and ___ rebounds, and the Dallas Mavericks turned up the defensive intensity in a ___-v victory over the Miami Heat on Friday night."
+    },
+    "401468348": {
+        "recap": "Garland poured in a career-high 51 points — 27 of them in the fourth quarter — and made a career-best 10 3-pointers as the Cleveland Cavaliers lost 129-124 to the Minnesota Timberwolves. Cleveland had trailed 99-75 late in the third.",
+        "masked_recap": "Garland poured in a career-high ___ points — ___ of them in the fourth quarter — and made a career-best ___-pointers as the Cleveland Cavaliers lost ___-___ to the Minnesota Timberwolves. Cleveland had trailed ___-___ late in the third."
+    },
+    "320415005": {
+        "recap": "Jason Richardson added 16 points for Orlando, which had five players in double figures. J.J. Redick scored 13.",
+        "masked_recap": "Jason Richardson added ___ points for Orlando, which had five players in double figures. J.J. Redick scored ___."
+    },
+    "400900276": {
+        "recap": "Nowitzki had 18 points and nine rebounds and Harrison Barnes scored 19 as the Dallas Mavericks won in Nerlens Noel's debut with the team, 96-83 over the New Orleans Pelicans on Saturday night.",
+        "masked_recap": "Nowitzki had ___ points and nine rebounds and Harrison Barnes scored ___ as the Dallas Mavericks won in Nerlens Noel's debut with the team, ___-___ over the New Orleans Pelicans on Saturday night."
+    },
+    "310101015": {
+        "masked_recap": "Caron Butler went down with a knee injury in the first quarter, and Milwaukee's Earl Boykins returned after a one-game suspension to score a season-high ___ points in the Bucks' ___-___ victory Saturday night.",
+        "recap": "Caron Butler went down with a knee injury in the first quarter, and Milwaukee's Earl Boykins returned after a one-game suspension to score a season-high 26 points in the Bucks' 99-87 victory Saturday night."
+    },
+    "401468525": {
+        "recap": "D’Angelo Russell had 15 of his 28 points in the fourth quarter, Anthony Edwards scored 26 points and the Minnesota Timberwolves held on to beat the Indiana Pacers 121-115 on Wednesday night.",
+        "masked_recap": "D’Angelo Russell had ___ of his ___ points in the fourth quarter, Anthony Edwards scored ___ points and the Minnesota Timberwolves held on to beat the Indiana Pacers ___-___ on Wednesday night."
+    },
+    "400277951": {
+        "recap": "West had 31 points and 11 rebounds to help the Indiana Pacers edge the Sacramento Kings 97-92 on Friday night.",
+        "masked_recap": "West had ___ points and ___ rebounds to help the Indiana Pacers edge the Sacramento Kings ___-___ on Friday night."
+    },
+    "320422008": {
+        "recap": "The Pistons shook off an awful first half and Gordon scored seven of their final eight points -- including the go-ahead basket -- to hang on for a 76-73 victory over the Toronto Raptors on Sunday night.",
+        "masked_recap": "The Pistons shook off an awful first half and Gordon scored seven of their final eight points -- including the go-ahead basket -- to hang on for a ___-___ victory over the Toronto Raptors on Sunday night."
+    },
+    "401468518": {
+        "recap": "Rookie Pablo Banchero scored 10 of his 23 points in overtime and the Orlando Magic snapped a nine-game losing streak with a 116-111 win over the Los Angeles Clippers on Wednesday night.",
+        "masked_recap": "Rookie Pablo Banchero scored ___ of his ___ points in overtime and the Orlando Magic snapped a nine-game losing streak with a ___-___ win over the Los Angeles Clippers on Wednesday night."
+    },
+    "310326008": {
+        "recap": "Hamilton scored 23 points, and the Detroit Pistons held off the Indiana Pacers 100-88 on Saturday night. The Pistons went on a 21-3 run during the third quarter to take an 18-point lead. The Pacers cut the lead to six in the fourth quarter, but Hamilton drove for an easy layup, then made a nice pass to Rodney Stuckey for a layup to make it 90-80.",
+        "masked_recap": "Hamilton scored ___ points, and the Detroit Pistons held off the Indiana Pacers ___-___ on Saturday night. The Pistons went on a 21-3 run during the third quarter to take an 18-point lead. The Pacers cut the lead to six in the fourth quarter, but Hamilton drove for an easy layup, then made a nice pass to Rodney Stuckey for a layup to make it ___-___."
+    },
+    "401468976": {
+        "recap": "LeBron James became the NBA's career scoring leader on a step-back jumper late in the third quarter, passing Kareem Abdul-Jabbar's record during his 38-point performance in the Los Angeles Lakers' 133-130 loss to the Oklahoma City Thunder on Tuesday night.",
+        "masked_recap": "LeBron James became the NBA's career scoring leader on a step-back jumper late in the third quarter, passing Kareem Abdul-Jabbar's record during his ___-point performance in the Los Angeles Lakers' ___-___ loss to the Oklahoma City Thunder on Tuesday night."
+    },
+    "401160926": {
+        "recap": "Goran Dragic scored 24 points, including a three-point play that kicked off a closing 10-0 burst, and Butler added 20 as the Heat rallied to beat the Brooklyn Nets 109-106 on Sunday.",
+        "masked_recap": "Goran Dragic scored ___ points, including a three-point play that kicked off a closing 10-0 burst, and Butler added ___ as the Heat rallied to beat the Brooklyn Nets ___-___ on Sunday."
+    },
+    "401468251": {
+        "recap": "Huerter and Mitchell combined to go 10 of 16 from 3-point range and Harrison Barnes added 14 points as the Kings outscored Charlotte 37-18 in the third quarter.",
+        "masked_recap": "Huerter and Mitchell combined to go ___ of ___ from 3-point range and Harrison Barnes added ___ points as the Kings outscored Charlotte ___-___ in the third quarter."
+    },
+    "401071743": {
+        "recap": "Mike Conley scored 35 points and Jonas Valanciunas had a career-best 33, including the game-winning free throw with less than a second left as the Memphis Grizzlies outlasted the Rockets 126-125 on Wednesday night.",
+        "masked_recap": "Mike Conley scored ___ points and Jonas Valanciunas had a career-best ___, including the game-winning free throw with less than a second left as the Memphis Grizzlies outlasted the Rockets ___-___ on Wednesday night."
+    },
+    "401070734": {
+        "recap": "Cleveland fell to 0-4 after a 102-86 loss to Brooklyn on Wednesday night. D'Angelo Russell scored 18 points, Joe Harris added 16 and the Nets outscored the Cavaliers 38-17 in the third quarter to pull away.",
+        "masked_recap": "Cleveland fell to 0-4 after a ___-___ loss to Brooklyn on Wednesday night. D'Angelo Russell scored ___ points, Joe Harris added ___ and the Nets outscored the Cavaliers ___-___ in the third quarter to pull away."
+    },
+    "401161375": {
+        "recap": "Jalen Brunson scored 27 points in his ninth start of the season, Dorian Finney-Smith matched a career high with 22 points and Maxi Kleber added 18 as Dallas beat the Atlanta Hawks 123-100 in a game between teams with depleted rosters.",
+        "masked_recap": "Jalen Brunson scored ___ points in his ninth start of the season, Dorian Finney-Smith matched a career high with ___ points and Maxi Kleber added ___ as Dallas beat the Atlanta Hawks ___-___ in a game between teams with depleted rosters."
+    },
+    "400900331": {
+        "recap": "Dion Waiters scored 29 points, Goran Dragic added 21 and the Heat held off a late rally by the Cavs, who trimmed a 20-point deficit to 103-98 in the final minute. ",
+        "masked_recap": "Dion Waiters scored ___ points, Goran Dragic added ___ and the Heat held off a late rally by the Cavs, who trimmed a ___-point deficit to ___-___ in the final minute. "
+    },
+    "401360617": {
+        "recap": "Deandre Ayton had 20 points and 16 rebounds in an efficient 24 minutes and the NBA-leading Phoenix Suns rebounded from a streak-ending loss to beat the short-handed Washington Wizards 95-80 on Saturday night.",
+        "masked_recap": " Deandre Ayton had ___ points and ___ rebounds in an efficient 24 minutes and the NBA-leading Phoenix Suns rebounded from a streak-ending loss to beat the short-handed Washington Wizards ___-___ on Saturday night."
+    },
+    "401265837": {
+        "recap": "Wizards a chance to work their way back into the contest. Despite Washington’s best efforts, the Nets managed to hold on and win 119-114.",
+        "masked_recap": "Wizards a chance to work their way back into the contest. Despite Washington’s best efforts, the Nets managed to hold on and win ___-___."
+    },
+    "401267582": {
+        "masked_recap": "Randle scored a season-high ___ points, making a career-best seven 3-pointers and leading the Knicks to their third straight victory, ___-___ over the slumping Hawks on Monday night.",
+        "recap": "Randle scored a season-high 44 points, making a career-best seven 3-pointers and leading the Knicks to their third straight victory, 123-112 over the slumping Hawks on Monday night."
+    },
+    "401360463": {
+        "recap": "The All-Star guard had 27 points, 15 assists and eight rebounds as the Nets cruised to a 120-105 victory over the New Orleans Pelicans on Saturday, despite losing NBA scoring leader Kevin Durant in the first half to a left knee sprain.",
+        "masked_recap": "The All-Star guard had ___ points, ___ assists and ___ rebounds as the Nets cruised to a ___-___ victory over the New Orleans Pelicans on Saturday, despite losing NBA scoring leader Kevin Durant in the first half to a left knee sprain."
+    },
+    "400579131": {
+        "masked_recap": "James had ___ assists in Cleveland's ___-___ victory over the Detroit Pistons. ",
+        "recap": "James had 11 assists in Cleveland's 102-93 victory over the Detroit Pistons. "
+    },
+    "401361028": {
+        "recap": " Luka Doncic had 39 points, 11 rebounds and his 16th technical foul of the season for the Dallas Mavericks, who will open the playoffs at home for the first time since 2011 after their 128-78 victory over the Portland Trail Blazers on Friday night.",
+        "masked_recap": " Luka Doncic had ___ points, ___ rebounds and his 16th technical foul of the season for the Dallas Mavericks, who will open the playoffs at home for the first time since 2011 after their ___-___ victory over the Portland Trail Blazers on Friday night."
+    },
+    "401267328": {
+        "recap": "Durant scored 26 points to lead the Nets — short-handed after agreeing to a trade for Harden — to a 116-109 victory over the New York Knicks.",
+        "masked_recap": "Durant scored ___ points to lead the Nets — short-handed after agreeing to a trade for Harden — to a ___-___ victory over the New York Knicks."
+    },
+    "401359868": {
+        "recap": " Kevin Durant scored 25 points and the Brooklyn Nets bounced back from a poor finish a day earlier with a blistering start that sent them to a 104-90 victory over the Washington Wizards on Monday night.",
+        "masked_recap": " Kevin Durant scored ___ points and the Brooklyn Nets bounced back from a poor finish a day earlier with a blistering start that sent them to a ___-___ victory over the Washington Wizards on Monday night."
+    },
+    "400900017": {
+        "recap": "Karl-Anthony Towns had 29 points and 17 rebounds and Ricky Rubio added 14 points and 14 assists to help the Timberwolves to their third straight victory, 96-86 over the Oklahoma City Thunder on Friday night.",
+        "masked_recap": "Karl-Anthony Towns had ___ points and ___ rebounds and Ricky Rubio added ___ points and ___ assists to help the Timberwolves to their third straight victory, ___-___ over the Oklahoma City Thunder on Friday night."
+    },
+    "400278656": {
+        "recap": "Amir Johnson scored 17 points and matched his career high with 16 rebounds, Alan Anderson scored 10 of his 18 points in the fourth quarter, and the Toronto Raptors overcame a 17-point deficit to beat the slumping Cavaliers 100-96 on Sunday night.",
+        "masked_recap": "Amir Johnson scored ___ points and matched his career high with ___ rebounds, Alan Anderson scored ___ of his ___ points in the fourth quarter, and the Toronto Raptors overcame a ___-point deficit to beat the slumping Cavaliers ___-___ on Sunday night."
+    },
+    "401070927": {
+        "recap": "Anthony Davis had 29 points and nine rebounds, Randle added 21 points, 14 rebounds and 10 assists in 25 minutes, and New Orleans won its third straight with a 140-126 victory over the San Antonio Spurs on Monday night.",
+        "masked_recap": "Anthony Davis had ___ points and nine rebounds, Randle added ___ points, ___ rebounds and ___ assists in 25 minutes, and New Orleans won its third straight with a ___-___ victory over the San Antonio Spurs on Monday night."
+    },
+    "401160949": {
+        "recap": "Antetokounmpo scored 35 points to lift the Bucks to their 13th consecutive victory, 127-103 over the Pistons on Wednesday night.",
+        "masked_recap": "Antetokounmpo scored ___ points to lift the Bucks to their 13th consecutive victory, ___-___ over the Pistons on Wednesday night."
+    },
+    "400899809": {
+        "recap": "Cousins had 31 points, 16 rebounds, five assists and three blocks, and the Sacramento Kings used a big third quarter to send slumping Los Angeles to a seventh straight defeat with a 116-92 win Monday night.",
+        "masked_recap": "Cousins had ___ points, ___ rebounds, ___ assists and ___ blocks, and the Sacramento Kings used a big third quarter to send slumping Los Angeles to a seventh straight defeat with a ___-___ win Monday night."
+    },
+    "401071301": {
+        "recap": "James Harden had 43 points, 10 rebounds and 12 assists in 29 minutes -- the first player in NBA history to have a 40-point triple-double in less than 30 minutes played -- to lead the Houston Rockets to a 141-113 rout of the Cleveland Cavaliers on Friday night for their eighth win in 11 games.",
+        "masked_recap": "James Harden had ___ points, ___ rebounds and ___ assists in 29 minutes -- the first player in NBA history to have a ___-point triple-double in less than 30 minutes played -- to lead the Houston Rockets to a ___-___ rout of the Cleveland Cavaliers on Friday night for their eighth win in 11 games."
+    },
+    "401071121": {
+        "recap": "Buddy Hield and De'Aaron Fox each scored 28 points Sunday night in the Kings' 120-113 victory, which ended the Mavs' 11-game home winning streak.",
+        "masked_recap": "Buddy Hield and De'Aaron Fox each scored ___ points Sunday night in the Kings' ___-___ victory, which ended the Mavs' 11-game home winning streak."
+    },
+    "401071706": {
+        "recap": "The Clippers trailed the Chicago Bulls by six at halftime but had their highest-scoring output in a quarter this season as they rallied for a 128-121 victory on Friday night. Los Angeles scored 45 points in the third, when Rivers and Chicago coach Jim Boylen were ejected for arguing .",
+        "masked_recap": "The Clippers trailed the Chicago Bulls by six at halftime but had their highest-scoring output in a quarter this season as they rallied for a ___-___ victory on Friday night. Los Angeles scored ___ points in the third, when Rivers and Chicago coach Jim Boylen were ejected for arguing ."
+    },
+    "401468566": {
+        "recap": "HOUSTON -- — Jalen Green had 26 points and Kevin Porter Jr. added 18 as the Houston Rockets never trailed in a 111-97 win over the slumping Phoenix Suns on Tuesday night.",
+        "masked_recap": "HOUSTON -- — Jalen Green had ___ points and Kevin Porter Jr. added ___ as the Houston Rockets never trailed in a ___-___ win over the slumping Phoenix Suns on Tuesday night."
+    },
+    "400578656": {
+        "recap": "Wade scored 28 points to lead the Heat to a 95-91 victory over the Nets. He was 12 for 24 from the field and also contributed five rebounds and four assists.",
+        "masked_recap": "Wade scored 28 points to lead the Heat to a ___-___ victory over the Nets. He was ___ for ___ from the field and also contributed ___ rebounds and ___ assists."
+    },
+    "400899970": {
+        "recap": "Lou Williams scored 24 points and Luol Deng added 19 points and 14 rebounds for the Lakers in their fourth victory in 20 games, 127-100 over Miami on Friday.",
+        "masked_recap": "Lou Williams scored ___ points and Luol Deng added ___ points and ___ rebounds for the Lakers in their fourth victory in 20 games, ___-___ over Miami on Friday."
+    },
+    "400899097": {
+        "recap": "DANTE CUNNINGHAM scored 11 points and Solomon Hill added 13 points and 4 rebounds for the Pelicans, 89-96 over Atlant on Friday",
+        "masked_recap": "DANTE CUNNINGHAM scored ___ points and Solomon Hill added ___ points and ___ rebounds for the Pelicans, ___-___ over Atlant on Friday"
+    },
+    "401468396": {
+        "recap": "Kyle Kuzma had 28 points, 10 rebounds and five assists and the Washington Wizards, after watching star Bradley Beal limp off in the last minute, beat the Charlotte Hornets 106-102 on Sunday night.",
+        "masked_recap": "Kyle Kuzma had ___ points, ___ rebounds and five assists and the Washington Wizards, after watching star Bradley Beal limp off in the last minute, beat the Charlotte Hornets ___-___ on Sunday night."
+    },
+    "400489253": {
+        "recap": "Jordan had 14 points and 20 rebounds -- two off his career high -- and Blake Griffin had 21 points and 10 rebounds before fouling out with 4:05 left in the Los Angeles Clippers' 108-95 victory Wednesday night.",
+        "masked_recap": "Jordan had ___ points and ___ rebounds -- two off his career high -- and Blake Griffin had ___ points and ___ rebounds before fouling out with 4:05 left in the Los Angeles Clippers' ___-___ victory Wednesday night."
+    },
+    "401541178": {
+        "recap": "Booker scored 45 points, Durant added 28 and the Phoenix Suns beat the Kawhi Leonard-less Los Angeles Clippers 129-124 on Thursday night to take a 2-1 lead in the Western Conference playoff series.",
+        "masked_recap": "Booker scored ___ points, Durant added ___ and the Phoenix Suns beat the Kawhi Leonard-less Los Angeles Clippers ___-___ on Thursday night to take a 2-1 lead in the Western Conference playoff series."
+    },
+    "401360210": {
+        "recap": "Giannis Antetokounmpo had 41 points and 17 rebounds, and the Milwaukee Bucks snapped the Houston Rockets' seven-game winning streak with a 123-114 victory Friday night.",
+        "masked_recap": "Giannis Antetokounmpo had ___ points and ___ rebounds, and the Milwaukee Bucks snapped the Houston Rockets' seven-game winning streak with a ___-___ victory Friday night."
+    },
+    "401468626": {
+        "recap": "NEW YORK -- — Pascal Siakam scored a career-high 52 points and the Toronto Raptors snapped the New York Knicks’ NBA-leading eight-game winning streak 113-106 Wednesday night.",
+        "masked_recap": "NEW YORK -- — Pascal Siakam scored a career-high ___ points and the Toronto Raptors snapped the New York Knicks’ NBA-leading eight-game winning streak ___-___ Wednesday night."
+    },
+    "400489844": {
+        "recap": "Al Jefferson had 25 points and 16 rebounds to set a single-season franchise record with his 20th 20-point, 10-rebound game of the season and the Bobcats held Kevin Love scoreless in the second half.",
+        "masked_recap": "Al Jefferson had ___ points and ___ rebounds to set a single-season franchise record with his 20th ___-point, ___-rebound game of the season and the Bobcats held Kevin Love scoreless in the second half."
+    },
+    "401267606": {
+        "recap": "LOS ANGELES -- — James Harden scored 23 points, Joe Harris added 21 with six 3-pointers and the Brooklyn Nets routed the short-handed Los Angeles Lakers 109-98 Thursday night for their season-best fifth straight victory.",
+        "masked_recap": "LOS ANGELES -- — James Harden scored ___ points, Joe Harris added ___ with six 3-pointers and the Brooklyn Nets routed the short-handed Los Angeles Lakers ___-___ Thursday night for their season-best fifth straight victory."
+    },
+    "401468172": {
+        "recap": "CHARLOTTE, N.C. -- — Jonas Valanciunas had 30 points and 17 rebounds and the New Orleans Pelicans spoiled the Charlotte Hornets’ home opener with a wire-to-wire 124-112 victory Friday night.",
+        "masked_recap": "CHARLOTTE, N.C. -- — Jonas Valanciunas had ___ points and ___ rebounds and the New Orleans Pelicans spoiled the Charlotte Hornets’ home opener with a wire-to-wire ___-___ victory Friday night."
+    },
+    "400579377": {
+        "recap": "Lawson and Jameer Nelson each scored 18 points as Denver beat Utah 107-91 on Friday night, handing the Jazz their fourth straight loss.",
+        "masked_recap": "Lawson and Jameer Nelson each scored ___ points as Denver beat Utah ___-___ on Friday night, handing the Jazz their fourth straight loss."
+    },
+    "400278004": {
+        "recap": "Green scored a season-high 23 points and the Spurs set a franchise record with 19 3-pointers to hand the Bobcats their seventh straight defeat, 132-102. Green was 7 of 9 from 3-point range and the Spurs shot 56 percent from behind the arc.",
+        "masked_recap": "Green scored a season-high ___ points and the Spurs set a franchise record with ___ 3-pointers to hand the Bobcats their seventh straight defeat, ___-___. Green was ___ of ___ from 3-point range and the Spurs shot ___ percent from behind the arc."
+    },
+    "400490064": {
+        "recap": "Still, the Wizards waited until the third quarter to start playing serious defense against a team short on ball handlers. They pulled away by forcing 14 second-half turnovers Saturday night in a 104-91 win that moves them closer to claiming the No. 6 seed in the Eastern Conference.",
+        "masked_recap": "Still, the Wizards waited until the third quarter to start playing serious defense against a team short on ball handlers. They pulled away by forcing 14 second-half turnovers Saturday night in a ___-___ win that moves them closer to claiming the No. 6 seed in the Eastern Conference."
+    },
+    "401474870": {
+        "recap": "Friday in New York, however, was the opposite, a 131-114 beatdown at the hands of the Knicks that was rarely close after the first quarter. Here are three observations from the game",
+        "masked_recap": "Friday in New York, however, was the opposite, a ___-___ beatdown at the hands of the Knicks that was rarely close after the first quarter. Here are three observations from the game"
+    },
+    "400579171": {
+        "recap": "Lillard scored nine of his 31 points in the fourth quarter, LaMarcus Aldridge had 26 points and 15 rebounds, and the Blazers beat the Kings 110-99 for their third straight victory.",
+        "masked_recap": "Lillard scored nine of his ___ points in the fourth quarter, LaMarcus Aldridge had ___ points and ___ rebounds, and the Blazers beat the Kings ___-___ for their third straight victory."
+    },
+    "401071086": {
+        "recap": "Lamb knocked down a 22-foot jumper from the right wing with three-tenths of a second left, then had to wait to see whether it counted after the Hornets were assessed a technical foul for having too many players on the floor. The basket was upheld, and the Hornets escaped with a 108-107 win over the Detroit Pistons on Wednesday night after trailing by 10 late in the fourth quarter.",
+        "masked_recap": "Lamb knocked down a ___-foot jumper from the right wing with three-tenths of a second left, then had to wait to see whether it counted after the Hornets were assessed a technical foul for having too many players on the floor. The basket was upheld, and the Hornets escaped with a ___-___ win over the Detroit Pistons on Wednesday night after trailing by 10 late in the fourth quarter."
+    },
+    "400900044": {
+        "recap": "Goran Dragic had 21 points and eight assists, Wayne Ellington scored 18 off the bench and the Heat -- saddled with one of the worst records in the NBA -- overcame another triple-double from James Harden to beat the Houston Rockets 109-103 on Tuesday night.",
+        "masked_recap": "Goran Dragic had ___ points and eight assists, Wayne Ellington scored ___ off the bench and the Heat -- saddled with one of the worst records in the NBA -- overcame another triple-double from James Harden to beat the Houston Rockets ___-___ on Tuesday night."
+    },
+    "401468272": {
+        "recap": "Matt Ryan hit a tying 3-pointer at the regulation buzzer, Lonnie Walker made a key 3-pointer in overtime while scoring 28 points, and the Los Angeles Lakers beat the New Orleans Pelicans 120-117 Wednesday night for their second straight victory after an 0-5 start to the season.",
+        "masked_recap": "Matt Ryan hit a tying 3-pointer at the regulation buzzer, Lonnie Walker made a key 3-pointer in overtime while scoring ___ points, and the Los Angeles Lakers beat the New Orleans Pelicans ___-___ Wednesday night for their second straight victory after an 0-5 start to the season."
+    },
+    "401160730": {
+        "recap": "Davis had 25 points and 11 rebounds, ames added 21 points, 13 assists and 11 rebounds and Los Angeles held off the San Antonio Spurs 103-96 on Sunday night.",
+        "masked_recap": "Davis had ___ points and ___ rebounds, ames added ___ points, ___ assists and ___ rebounds and Los Angeles held off the San Antonio Spurs ___-___ on Sunday night."
+    },
+    "320417008": {
+        "recap": "Knight had 28 points and seven assists, and the Pistons routed the Cleveland Cavaliers 116-77 on Tuesday night in one of the NBA's most lopsided games of the season. Tayshaun Prince added 15 points for Detroit and Jonas Jerebko scored 14.",
+        "masked_recap": "Knight had ___ points and seven assists, and the Pistons routed the Cleveland Cavaliers ___-___ on Tuesday night in one of the NBA's most lopsided games of the season. Tayshaun Prince added ___ points for Detroit and Jonas Jerebko scored ___."
+    },
+    "400899434": {
+        "recap": "Goran Dragic scored 27 points and the Heat continued to play better on the road with a 111-110 victory over the Utah Jazz.",
+        "masked_recap": "Goran Dragic scored ___ points and the Heat continued to play better on the road with a ___-___ victory over the Utah Jazz."
+    },
+    "320123022": {
+        "recap": "Crawford scored a season-high 26 points, and the Portland Trail Blazers returned home from a six-game road trip with a 101-89 win over the Sacramento Kings on Monday night.",
+        "masked_recap": "Crawford scored a season-high ___ points, and the Portland Trail Blazers returned home from a six-game road trip with a ___-___ win over the Sacramento Kings on Monday night."
+    },
+    "401540756": {
+        "recap": "Hachimura scored a playoff career-best 29 points, including 21 in the second half, and James added 21 points and 11 rebounds as the seventh-seeded Lakers beat the No. 2 seed Memphis Grizzlies 128-112 on Sunday in the opening game of their series.",
+        "masked_recap": "Hachimura scored a playoff career-best ___ points, including ___ in the second half, and James added ___ points and ___ rebounds as the seventh-seeded Lakers beat the No. 2 seed Memphis Grizzlies ___-___ on Sunday in the opening game of their series."
+    },
+    "401071448": {
+        "recap": "DETROIT -- Lou Williams scored 16 Los Angeles points in a row during a torrid fourth-quarter stretch, and the Clippers rallied from a 25-point deficit to beat the Detroit Pistons 111-101 on Saturday night.",
+        "masked_recap": "DETROIT -- Lou Williams scored ___ Los Angeles points in a row during a torrid fourth-quarter stretch, and the Clippers rallied from a ___-point deficit to beat the Detroit Pistons ___-___ on Saturday night."
+    },
+    "400828754": {
+        "recap": "Paul scored a season-high 40 points and added 13 assists with eight rebounds to propel the Los Angeles Clippers to a 117-107 victory Friday night.",
+        "masked_recap": "Paul scored a season-high ___ points and added ___ assists with ___ rebounds to propel the Los Angeles Clippers to a ___-___ victory Friday night."
+    },
+    "400489045": {
+        "recap": "Ellis had a season-high 37 points and two key assists late, Dirk Nowitzki led a fourth-quarter rally with 14 of his 35 points, and the Mavericks spoiled Howard's best offensive night for Houston with a 123-120 victory over the Rockets on Wednesday night",
+        "masked_recap": "Ellis had a season-high ___ points and ___ key assists late, Dirk Nowitzki led a fourth-quarter rally with ___ of his ___ points, and the Mavericks spoiled Howard's best offensive night for Houston with a ___-___ victory over the Rockets on Wednesday night"
+    },
+    "401160940": {
+        "recap": "LaVine scored 28 points and made four free throws in the final 11 seconds, and the Bulls overcame a sloppy fourth quarter to hold off the Sacramento Kings 113-106 on Monday night.",
+        "masked_recap": "LaVine scored ___ points and made four free throws in the final ___ seconds, and the Bulls overcame a sloppy fourth quarter to hold off the Sacramento Kings ___-___ on Monday night."
+    },
+    "401469309": {
+        "recap": "New York's point guard scored a career-high 48 points and the Knicks moved closer to a playoff berth while waiting for Randle to get healthy, outrunning the Cleveland Cavaliers 130-116 on Friday night.",
+        "masked_recap": "New York's point guard scored a career-high ___ points and the Knicks moved closer to a playoff berth while waiting for Randle to get healthy, outrunning the Cleveland Cavaliers ___-___ on Friday night."
+    },
+    "401071194": {
+        "recap": "That run continued Friday night, when Domantas Sabonis got his league-leading 15th double-double as a reserve, Collison scored 19 points and the Indiana Pacers beat the Detroit Pistons 125-88.",
+        "masked_recap": "That run continued Friday night, when Domantas Sabonis got his league-leading 15th double-double as a reserve, Collison scored ___ points and the Indiana Pacers beat the Detroit Pistons ___-___."
+    },
+    "400899648": {
+        "recap": "Butler scored a season-high 40 points and Isaiah Canaan added a season-high 17 in the Bulls' fifth victory in six games, 118-110 over the Lakers on Sunday night.",
+        "masked_recap": "Butler scored a season-high ___ points and Isaiah Canaan added a season-high ___ in the Bulls' fifth victory in six games, ___-___ over the Lakers on Sunday night."
+    },
+    "401160631": {
+        "recap": "Doncic had 34 points and nine rebounds, Porzingis finished off his 23 points with the game-sealing dunk in the final minute and the Mavericks beat the Wizards 108-100 in the season opener Wednesday night.",
+        "masked_recap": "Doncic had ___ points and nine rebounds, Porzingis finished off his ___ points with the game-sealing dunk in the final minute and the Mavericks beat the Wizards ___-___ in the season opener Wednesday night."
+    },
+    "400899383": {
+        "recap": " Myles Turner The second-year center had 23 points and 12 rebounds to lead the Indiana Pacers to a 117-104 victory over the Orlando Magic on Sunday.",
+        "masked_recap": " Myles Turner The second-year center had ___ points and ___ rebounds to lead the Indiana Pacers to a ___-___ victory over the Orlando Magic on Sunday."
+    },
+    "400578535": {
+        "recap": "Playing about an hour south of his home town, Green finished the holiday weekend with 20 points as the Golden State Warriors beat the Detroit Pistons 104-93 Sunday for their ninth straight win.",
+        "masked_recap": "Playing about an hour south of his home town, Green finished the holiday weekend with ___ points as the Golden State Warriors beat the Detroit Pistons ___-___ Sunday for their ninth straight win."
+    },
+    "401468790": {
+        "recap": "Jordan Poole scored 25 points, Donte DiVincenzo added 22 and the Warriors beat the San Antonio Spurs 144-113 on Friday night before an NBA-record crowd of 68,323 at the Alamodome.",
+        "masked_recap": "Jordan Poole scored ___ points, Donte DiVincenzo added ___ and the Warriors beat the San Antonio Spurs ___-___ on Friday night before an NBA-record crowd of 68,323 at the Alamodome."
+    }
+}
