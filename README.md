@@ -1,9 +1,9 @@
 # SportsMetrics
-Benchmark data for numerical reasoning and information fusion of LLMs.
+Benchmark data to evaluate numerical reasoning and information fusion of LLMs.
 
 [SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs](https://arxiv.org/abs/2402.10979)  \
 Yebowen Hu, Kaiqiang Song, Sangwoo Cho, Xiaoyang Wang, Hassan Foroosh, Dong Yu, Fei Liu   \
-In proceeding to ACL 2024 Main Conference, Bangkok, Thailand. [Long Paper](https://2024.aclweb.org/program/main_conference_papers/)
+[*In proceeding to ACL 2024 Main Conference, Bangkok, Thailand.*](https://2024.aclweb.org/program/main_conference_papers/)
 
 ## Usage of Benchmark
 1. Select the task from data/
@@ -33,12 +33,22 @@ Instance from TaskLoader
 ```
 
 ## Benchmark Tasks
+
+The LLM is mandatorily required to generate responses in JSON format.
+
 ### Reasoning Task
-reasoning-team_points_tracking (NBA), reasoning-key_stats_tracking (NBA), reasoning-key_stats_tracking (NFL)
+- **reasoning-team_points_tracking**: Tracking team points in one match.  
+- **reasoning-key_stats_tracking**: Tracking the key statistics for sports analytics.
 
 ### Conflicts Task
+- **conflict-one_point_rule**: All scoring actions in the competition are set to be worth only one point.  
+- **conflict-swap_{num}_players**: Swap {num} of spalyer between two teams.
 
 ### Robustness Task
+- **robustness-duplicate_{prob}**: Replicate the non-scoring move with a probability of {prob}.  
+- **robustness-remove_{prob}**: Remove the non-scoring move with a probability of {prob}.  
+- **robustness-shuffled_pbp**: Shuffle the order of all moves in play-by-play descriptions while maintain the original order of timestamps.  
+- **robustness-{num}_fiction_names**: Randomly select {num} of players from both teams and replace them with names from fiction movies. 
 
 
 **Bibtex**
