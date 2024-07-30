@@ -1,7 +1,7 @@
 # SportsMetrics
 Benchmark data to evaluate numerical reasoning and information fusion of LLMs.
 
-SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs  \
+**SportsMetrics: Blending Text and Numerical Data to Understand Information Fusion in LLMs**  \
 Yebowen Hu, Kaiqiang Song, Sangwoo Cho, Xiaoyang Wang, Hassan Foroosh, Dong Yu, Fei Liu   \
 [*In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24), Bangkok, Thailand.*](https://2024.aclweb.org/program/main_conference_papers/)  \
 [Arxiv Paper](https://arxiv.org/abs/2402.10979)
