@@ -51,6 +51,19 @@ The LLM is mandatorily required to generate responses in JSON format.
 - **robustness-shuffled_pbp**: Shuffle the order of all moves in play-by-play descriptions while maintain the original order of timestamps.  
 - **robustness-{num}_fiction_names**: Randomly select {num} of players from both teams and replace them with names from fiction movies. 
 
+## Run Benchmark On OpenAI models
+1. Set \<API-Key\> in ./openai.yaml
+```bash
+api-key: <Your API>
+parameters:
+  temperature: 0
+  max_tokens: 4096
+  top_p: 1
+  frequency_penalty: 0
+  presence_penalty: 0
+
+```
+2. Customize the script **evaluation_sample.py** accordingly to generate responses.
 
 **Bibtex**
 ```
